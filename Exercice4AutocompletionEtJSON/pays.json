@@ -1,0 +1,967 @@
+{
+    "listePays": [{
+            "nom_pays_fr": "Aruba",
+            "alpha3": "ABW"
+        },
+        {
+            "nom_pays_fr": "Afghanistan",
+            "alpha3": "AFG"
+        },
+        {
+            "nom_pays_fr": "Angola",
+            "alpha3": "AGO"
+        },
+        {
+            "nom_pays_fr": "Anguilla",
+            "alpha3": "AIA"
+        },
+        {
+            "nom_pays_fr": "\u00celes \u00c5land",
+            "alpha3": "ALA"
+        },
+        {
+            "nom_pays_fr": "Albanie",
+            "alpha3": "ALB"
+        },
+        {
+            "nom_pays_fr": "Andorre",
+            "alpha3": "AND"
+        },
+        {
+            "nom_pays_fr": "Antilles N\u00e9erlandaises",
+            "alpha3": "ANT"
+        },
+        {
+            "nom_pays_fr": "\u00c9mirats Arabes Unis",
+            "alpha3": "ARE"
+        },
+        {
+            "nom_pays_fr": "Argentine",
+            "alpha3": "ARG"
+        },
+        {
+            "nom_pays_fr": "Arm\u00e9nie",
+            "alpha3": "ARM"
+        },
+        {
+            "nom_pays_fr": "Samoa Am\u00e9ricaines",
+            "alpha3": "ASM"
+        },
+        {
+            "nom_pays_fr": "Antarctique",
+            "alpha3": "ATA"
+        },
+        {
+            "nom_pays_fr": "Terres Australes Fran\u00e7aises",
+            "alpha3": "ATF"
+        },
+        {
+            "nom_pays_fr": "Antigua-et-Barbuda",
+            "alpha3": "ATG"
+        },
+        {
+            "nom_pays_fr": "Australie",
+            "alpha3": "AUS"
+        },
+        {
+            "nom_pays_fr": "Autriche",
+            "alpha3": "AUT"
+        },
+        {
+            "nom_pays_fr": "Azerba\u00efdjan",
+            "alpha3": "AZE"
+        },
+        {
+            "nom_pays_fr": "Burundi",
+            "alpha3": "BDI"
+        },
+        {
+            "nom_pays_fr": "Belgique",
+            "alpha3": "BEL"
+        },
+        {
+            "nom_pays_fr": "B\u00e9nin",
+            "alpha3": "BEN"
+        },
+        {
+            "nom_pays_fr": "Burkina Faso",
+            "alpha3": "BFA"
+        },
+        {
+            "nom_pays_fr": "Bangladesh",
+            "alpha3": "BGD"
+        },
+        {
+            "nom_pays_fr": "Bulgarie",
+            "alpha3": "BGR"
+        },
+        {
+            "nom_pays_fr": "Bahre\u00efn",
+            "alpha3": "BHR"
+        },
+        {
+            "nom_pays_fr": "Bahamas",
+            "alpha3": "BHS"
+        },
+        {
+            "nom_pays_fr": "Bosnie-Herz\u00e9govine",
+            "alpha3": "BIH"
+        },
+        {
+            "nom_pays_fr": "B\u00e9larus",
+            "alpha3": "BLR"
+        },
+        {
+            "nom_pays_fr": "Belize",
+            "alpha3": "BLZ"
+        },
+        {
+            "nom_pays_fr": "Bermudes",
+            "alpha3": "BMU"
+        },
+        {
+            "nom_pays_fr": "Bolivie",
+            "alpha3": "BOL"
+        },
+        {
+            "nom_pays_fr": "Br\u00e9sil",
+            "alpha3": "BRA"
+        },
+        {
+            "nom_pays_fr": "Barbade",
+            "alpha3": "BRB"
+        },
+        {
+            "nom_pays_fr": "Brun\u00e9i Darussalam",
+            "alpha3": "BRN"
+        },
+        {
+            "nom_pays_fr": "Bhoutan",
+            "alpha3": "BTN"
+        },
+        {
+            "nom_pays_fr": "\u00cele Bouvet",
+            "alpha3": "BVT"
+        },
+        {
+            "nom_pays_fr": "Botswana",
+            "alpha3": "BWA"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Centrafricaine",
+            "alpha3": "CAF"
+        },
+        {
+            "nom_pays_fr": "Canada",
+            "alpha3": "CAN"
+        },
+        {
+            "nom_pays_fr": "\u00celes Cocos (Keeling)",
+            "alpha3": "CCK"
+        },
+        {
+            "nom_pays_fr": "Suisse",
+            "alpha3": "CHE"
+        },
+        {
+            "nom_pays_fr": "Chili",
+            "alpha3": "CHL"
+        },
+        {
+            "nom_pays_fr": "Chine",
+            "alpha3": "CHN"
+        },
+        {
+            "nom_pays_fr": "C\u00f4te d'Ivoire",
+            "alpha3": "CIV"
+        },
+        {
+            "nom_pays_fr": "Cameroun",
+            "alpha3": "CMR"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique D\u00e9mocratique du Congo",
+            "alpha3": "COD"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique du Congo",
+            "alpha3": "COG"
+        },
+        {
+            "nom_pays_fr": "\u00celes Cook",
+            "alpha3": "COK"
+        },
+        {
+            "nom_pays_fr": "Colombie",
+            "alpha3": "COL"
+        },
+        {
+            "nom_pays_fr": "Comores",
+            "alpha3": "COM"
+        },
+        {
+            "nom_pays_fr": "Cap-vert",
+            "alpha3": "CPV"
+        },
+        {
+            "nom_pays_fr": "Costa Rica",
+            "alpha3": "CRI"
+        },
+        {
+            "nom_pays_fr": "Cuba",
+            "alpha3": "CUB"
+        },
+        {
+            "nom_pays_fr": "\u00cele Christmas",
+            "alpha3": "CXR"
+        },
+        {
+            "nom_pays_fr": "\u00celes Ca\u00efmanes",
+            "alpha3": "CYM"
+        },
+        {
+            "nom_pays_fr": "Chypre",
+            "alpha3": "CYP"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Tch\u00e8que",
+            "alpha3": "CZE"
+        },
+        {
+            "nom_pays_fr": "Allemagne",
+            "alpha3": "DEU"
+        },
+        {
+            "nom_pays_fr": "Djibouti",
+            "alpha3": "DJI"
+        },
+        {
+            "nom_pays_fr": "Dominique",
+            "alpha3": "DMA"
+        },
+        {
+            "nom_pays_fr": "Danemark",
+            "alpha3": "DNK"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Dominicaine",
+            "alpha3": "DOM"
+        },
+        {
+            "nom_pays_fr": "Alg\u00e9rie",
+            "alpha3": "DZA"
+        },
+        {
+            "nom_pays_fr": "\u00c9quateur",
+            "alpha3": "ECU"
+        },
+        {
+            "nom_pays_fr": "\u00c9gypte",
+            "alpha3": "EGY"
+        },
+        {
+            "nom_pays_fr": "\u00c9rythr\u00e9e",
+            "alpha3": "ERI"
+        },
+        {
+            "nom_pays_fr": "Sahara Occidental",
+            "alpha3": "ESH"
+        },
+        {
+            "nom_pays_fr": "Espagne",
+            "alpha3": "ESP"
+        },
+        {
+            "nom_pays_fr": "Estonie",
+            "alpha3": "EST"
+        },
+        {
+            "nom_pays_fr": "\u00c9thiopie",
+            "alpha3": "ETH"
+        },
+        {
+            "nom_pays_fr": "Finlande",
+            "alpha3": "FIN"
+        },
+        {
+            "nom_pays_fr": "Fidji",
+            "alpha3": "FJI"
+        },
+        {
+            "nom_pays_fr": "\u00celes (malvinas) Falkland",
+            "alpha3": "FLK"
+        },
+        {
+            "nom_pays_fr": "France",
+            "alpha3": "FRA"
+        },
+        {
+            "nom_pays_fr": "\u00celes F\u00e9ro\u00e9",
+            "alpha3": "FRO"
+        },
+        {
+            "nom_pays_fr": "\u00c9tats F\u00e9d\u00e9r\u00e9s de Micron\u00e9sie",
+            "alpha3": "FSM"
+        },
+        {
+            "nom_pays_fr": "Gabon",
+            "alpha3": "GAB"
+        },
+        {
+            "nom_pays_fr": "Royaume-Uni",
+            "alpha3": "GBR"
+        },
+        {
+            "nom_pays_fr": "G\u00e9orgie",
+            "alpha3": "GEO"
+        },
+        {
+            "nom_pays_fr": "Ghana",
+            "alpha3": "GHA"
+        },
+        {
+            "nom_pays_fr": "Gibraltar",
+            "alpha3": "GIB"
+        },
+        {
+            "nom_pays_fr": "Guin\u00e9e",
+            "alpha3": "GIN"
+        },
+        {
+            "nom_pays_fr": "Guadeloupe",
+            "alpha3": "GLP"
+        },
+        {
+            "nom_pays_fr": "Gambie",
+            "alpha3": "GMB"
+        },
+        {
+            "nom_pays_fr": "Guin\u00e9e-Bissau",
+            "alpha3": "GNB"
+        },
+        {
+            "nom_pays_fr": "Guin\u00e9e \u00c9quatoriale",
+            "alpha3": "GNQ"
+        },
+        {
+            "nom_pays_fr": "Gr\u00e8ce",
+            "alpha3": "GRC"
+        },
+        {
+            "nom_pays_fr": "Grenade",
+            "alpha3": "GRD"
+        },
+        {
+            "nom_pays_fr": "Groenland",
+            "alpha3": "GRL"
+        },
+        {
+            "nom_pays_fr": "Guatemala",
+            "alpha3": "GTM"
+        },
+        {
+            "nom_pays_fr": "Guyane Fran\u00e7aise",
+            "alpha3": "GUF"
+        },
+        {
+            "nom_pays_fr": "Guam",
+            "alpha3": "GUM"
+        },
+        {
+            "nom_pays_fr": "Guyana",
+            "alpha3": "GUY"
+        },
+        {
+            "nom_pays_fr": "Hong-Kong",
+            "alpha3": "HKG"
+        },
+        {
+            "nom_pays_fr": "\u00celes Heard et Mcdonald",
+            "alpha3": "HMD"
+        },
+        {
+            "nom_pays_fr": "Honduras",
+            "alpha3": "HND"
+        },
+        {
+            "nom_pays_fr": "Croatie",
+            "alpha3": "HRV"
+        },
+        {
+            "nom_pays_fr": "Ha\u00efti",
+            "alpha3": "HTI"
+        },
+        {
+            "nom_pays_fr": "Hongrie",
+            "alpha3": "HUN"
+        },
+        {
+            "nom_pays_fr": "Indon\u00e9sie",
+            "alpha3": "IDN"
+        },
+        {
+            "nom_pays_fr": "\u00cele de Man",
+            "alpha3": "IMN"
+        },
+        {
+            "nom_pays_fr": "Inde",
+            "alpha3": "IND"
+        },
+        {
+            "nom_pays_fr": "Territoire Britannique de l'Oc\u00e9an Indien",
+            "alpha3": "IOT"
+        },
+        {
+            "nom_pays_fr": "Irlande",
+            "alpha3": "IRL"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Islamique d'Iran",
+            "alpha3": "IRN"
+        },
+        {
+            "nom_pays_fr": "Iraq",
+            "alpha3": "IRQ"
+        },
+        {
+            "nom_pays_fr": "Islande",
+            "alpha3": "ISL"
+        },
+        {
+            "nom_pays_fr": "Isra\u00ebl",
+            "alpha3": "ISR"
+        },
+        {
+            "nom_pays_fr": "Italie",
+            "alpha3": "ITA"
+        },
+        {
+            "nom_pays_fr": "Jama\u00efque",
+            "alpha3": "JAM"
+        },
+        {
+            "nom_pays_fr": "Jordanie",
+            "alpha3": "JOR"
+        },
+        {
+            "nom_pays_fr": "Japon",
+            "alpha3": "JPN"
+        },
+        {
+            "nom_pays_fr": "Kazakhstan",
+            "alpha3": "KAZ"
+        },
+        {
+            "nom_pays_fr": "Kenya",
+            "alpha3": "KEN"
+        },
+        {
+            "nom_pays_fr": "Kirghizistan",
+            "alpha3": "KGZ"
+        },
+        {
+            "nom_pays_fr": "Cambodge",
+            "alpha3": "KHM"
+        },
+        {
+            "nom_pays_fr": "Kiribati",
+            "alpha3": "KIR"
+        },
+        {
+            "nom_pays_fr": "Saint-Kitts-et-Nevis",
+            "alpha3": "KNA"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique de Cor\u00e9e",
+            "alpha3": "KOR"
+        },
+        {
+            "nom_pays_fr": "Kowe\u00eft",
+            "alpha3": "KWT"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique D\u00e9mocratique Populaire Lao",
+            "alpha3": "LAO"
+        },
+        {
+            "nom_pays_fr": "Liban",
+            "alpha3": "LBN"
+        },
+        {
+            "nom_pays_fr": "Lib\u00e9ria",
+            "alpha3": "LBR"
+        },
+        {
+            "nom_pays_fr": "Jamahiriya Arabe Libyenne",
+            "alpha3": "LBY"
+        },
+        {
+            "nom_pays_fr": "Sainte-Lucie",
+            "alpha3": "LCA"
+        },
+        {
+            "nom_pays_fr": "Liechtenstein",
+            "alpha3": "LIE"
+        },
+        {
+            "nom_pays_fr": "Sri Lanka",
+            "alpha3": "LKA"
+        },
+        {
+            "nom_pays_fr": "Lesotho",
+            "alpha3": "LSO"
+        },
+        {
+            "nom_pays_fr": "Lituanie",
+            "alpha3": "LTU"
+        },
+        {
+            "nom_pays_fr": "Luxembourg",
+            "alpha3": "LUX"
+        },
+        {
+            "nom_pays_fr": "Lettonie",
+            "alpha3": "LVA"
+        },
+        {
+            "nom_pays_fr": "Macao",
+            "alpha3": "MAC"
+        },
+        {
+            "nom_pays_fr": "Maroc",
+            "alpha3": "MAR"
+        },
+        {
+            "nom_pays_fr": "Monaco",
+            "alpha3": "MCO"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique de Moldova",
+            "alpha3": "MDA"
+        },
+        {
+            "nom_pays_fr": "Madagascar",
+            "alpha3": "MDG"
+        },
+        {
+            "nom_pays_fr": "Maldives",
+            "alpha3": "MDV"
+        },
+        {
+            "nom_pays_fr": "Mexique",
+            "alpha3": "MEX"
+        },
+        {
+            "nom_pays_fr": "\u00celes Marshall",
+            "alpha3": "MHL"
+        },
+        {
+            "nom_pays_fr": "L'ex-R\u00e9publique Yougoslave de Mac\u00e9doine",
+            "alpha3": "MKD"
+        },
+        {
+            "nom_pays_fr": "Mali",
+            "alpha3": "MLI"
+        },
+        {
+            "nom_pays_fr": "Malte",
+            "alpha3": "MLT"
+        },
+        {
+            "nom_pays_fr": "Myanmar",
+            "alpha3": "MMR"
+        },
+        {
+            "nom_pays_fr": "Mongolie",
+            "alpha3": "MNG"
+        },
+        {
+            "nom_pays_fr": "\u00celes Mariannes du Nord",
+            "alpha3": "MNP"
+        },
+        {
+            "nom_pays_fr": "Mozambique",
+            "alpha3": "MOZ"
+        },
+        {
+            "nom_pays_fr": "Mauritanie",
+            "alpha3": "MRT"
+        },
+        {
+            "nom_pays_fr": "Montserrat",
+            "alpha3": "MSR"
+        },
+        {
+            "nom_pays_fr": "Martinique",
+            "alpha3": "MTQ"
+        },
+        {
+            "nom_pays_fr": "Maurice",
+            "alpha3": "MUS"
+        },
+        {
+            "nom_pays_fr": "Malawi",
+            "alpha3": "MWI"
+        },
+        {
+            "nom_pays_fr": "Malaisie",
+            "alpha3": "MYS"
+        },
+        {
+            "nom_pays_fr": "Mayotte",
+            "alpha3": "MYT"
+        },
+        {
+            "nom_pays_fr": "Namibie",
+            "alpha3": "NAM"
+        },
+        {
+            "nom_pays_fr": "Nouvelle-Cal\u00e9donie",
+            "alpha3": "NCL"
+        },
+        {
+            "nom_pays_fr": "Niger",
+            "alpha3": "NER"
+        },
+        {
+            "nom_pays_fr": "\u00cele Norfolk",
+            "alpha3": "NFK"
+        },
+        {
+            "nom_pays_fr": "Nig\u00e9ria",
+            "alpha3": "NGA"
+        },
+        {
+            "nom_pays_fr": "Nicaragua",
+            "alpha3": "NIC"
+        },
+        {
+            "nom_pays_fr": "Niu\u00e9",
+            "alpha3": "NIU"
+        },
+        {
+            "nom_pays_fr": "Pays-Bas",
+            "alpha3": "NLD"
+        },
+        {
+            "nom_pays_fr": "Norv\u00e8ge",
+            "alpha3": "NOR"
+        },
+        {
+            "nom_pays_fr": "N\u00e9pal",
+            "alpha3": "NPL"
+        },
+        {
+            "nom_pays_fr": "Nauru",
+            "alpha3": "NRU"
+        },
+        {
+            "nom_pays_fr": "Nouvelle-Z\u00e9lande",
+            "alpha3": "NZL"
+        },
+        {
+            "nom_pays_fr": "Oman",
+            "alpha3": "OMN"
+        },
+        {
+            "nom_pays_fr": "Pakistan",
+            "alpha3": "PAK"
+        },
+        {
+            "nom_pays_fr": "Panama",
+            "alpha3": "PAN"
+        },
+        {
+            "nom_pays_fr": "Pitcairn",
+            "alpha3": "PCN"
+        },
+        {
+            "nom_pays_fr": "P\u00e9rou",
+            "alpha3": "PER"
+        },
+        {
+            "nom_pays_fr": "Philippines",
+            "alpha3": "PHL"
+        },
+        {
+            "nom_pays_fr": "Palaos",
+            "alpha3": "PLW"
+        },
+        {
+            "nom_pays_fr": "Papouasie-Nouvelle-Guin\u00e9e",
+            "alpha3": "PNG"
+        },
+        {
+            "nom_pays_fr": "Pologne",
+            "alpha3": "POL"
+        },
+        {
+            "nom_pays_fr": "Porto Rico",
+            "alpha3": "PRI"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Populaire D\u00e9mocratique de Cor\u00e9e",
+            "alpha3": "PRK"
+        },
+        {
+            "nom_pays_fr": "Portugal",
+            "alpha3": "PRT"
+        },
+        {
+            "nom_pays_fr": "Paraguay",
+            "alpha3": "PRY"
+        },
+        {
+            "nom_pays_fr": "Territoire Palestinien Occup\u00e9",
+            "alpha3": "PSE"
+        },
+        {
+            "nom_pays_fr": "Polyn\u00e9sie Fran\u00e7aise",
+            "alpha3": "PYF"
+        },
+        {
+            "nom_pays_fr": "Qatar",
+            "alpha3": "QAT"
+        },
+        {
+            "nom_pays_fr": "R\u00e9union",
+            "alpha3": "REU"
+        },
+        {
+            "nom_pays_fr": "Roumanie",
+            "alpha3": "ROU"
+        },
+        {
+            "nom_pays_fr": "F\u00e9d\u00e9ration de Russie",
+            "alpha3": "RUS"
+        },
+        {
+            "nom_pays_fr": "Rwanda",
+            "alpha3": "RWA"
+        },
+        {
+            "nom_pays_fr": "Arabie Saoudite",
+            "alpha3": "SAU"
+        },
+        {
+            "nom_pays_fr": "Serbie-et-Mont\u00e9n\u00e9gro",
+            "alpha3": "SCG"
+        },
+        {
+            "nom_pays_fr": "Soudan",
+            "alpha3": "SDN"
+        },
+        {
+            "nom_pays_fr": "S\u00e9n\u00e9gal",
+            "alpha3": "SEN"
+        },
+        {
+            "nom_pays_fr": "Singapour",
+            "alpha3": "SGP"
+        },
+        {
+            "nom_pays_fr": "G\u00e9orgie du Sud et les \u00celes Sandwich du Sud",
+            "alpha3": "SGS"
+        },
+        {
+            "nom_pays_fr": "Sainte-H\u00e9l\u00e8ne",
+            "alpha3": "SHN"
+        },
+        {
+            "nom_pays_fr": "Svalbard et\u00cele Jan Mayen",
+            "alpha3": "SJM"
+        },
+        {
+            "nom_pays_fr": "\u00celes Salomon",
+            "alpha3": "SLB"
+        },
+        {
+            "nom_pays_fr": "Sierra Leone",
+            "alpha3": "SLE"
+        },
+        {
+            "nom_pays_fr": "El Salvador",
+            "alpha3": "SLV"
+        },
+        {
+            "nom_pays_fr": "Saint-Marin",
+            "alpha3": "SMR"
+        },
+        {
+            "nom_pays_fr": "Somalie",
+            "alpha3": "SOM"
+        },
+        {
+            "nom_pays_fr": "Saint-Pierre-et-Miquelon",
+            "alpha3": "SPM"
+        },
+        {
+            "nom_pays_fr": "Sao Tom\u00e9-et-Principe",
+            "alpha3": "STP"
+        },
+        {
+            "nom_pays_fr": "Suriname",
+            "alpha3": "SUR"
+        },
+        {
+            "nom_pays_fr": "Slovaquie",
+            "alpha3": "SVK"
+        },
+        {
+            "nom_pays_fr": "Slov\u00e9nie",
+            "alpha3": "SVN"
+        },
+        {
+            "nom_pays_fr": "Su\u00e8de",
+            "alpha3": "SWE"
+        },
+        {
+            "nom_pays_fr": "Swaziland",
+            "alpha3": "SWZ"
+        },
+        {
+            "nom_pays_fr": "Seychelles",
+            "alpha3": "SYC"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique Arabe Syrienne",
+            "alpha3": "SYR"
+        },
+        {
+            "nom_pays_fr": "\u00celes Turks et Ca\u00efques",
+            "alpha3": "TCA"
+        },
+        {
+            "nom_pays_fr": "Tchad",
+            "alpha3": "TCD"
+        },
+        {
+            "nom_pays_fr": "Togo",
+            "alpha3": "TGO"
+        },
+        {
+            "nom_pays_fr": "Tha\u00eflande",
+            "alpha3": "THA"
+        },
+        {
+            "nom_pays_fr": "Tadjikistan",
+            "alpha3": "TJK"
+        },
+        {
+            "nom_pays_fr": "Tokelau",
+            "alpha3": "TKL"
+        },
+        {
+            "nom_pays_fr": "Turkm\u00e9nistan",
+            "alpha3": "TKM"
+        },
+        {
+            "nom_pays_fr": "Timor-Leste",
+            "alpha3": "TLS"
+        },
+        {
+            "nom_pays_fr": "Tonga",
+            "alpha3": "TON"
+        },
+        {
+            "nom_pays_fr": "Trinit\u00e9-et-Tobago",
+            "alpha3": "TTO"
+        },
+        {
+            "nom_pays_fr": "Tunisie",
+            "alpha3": "TUN"
+        },
+        {
+            "nom_pays_fr": "Turquie",
+            "alpha3": "TUR"
+        },
+        {
+            "nom_pays_fr": "Tuvalu",
+            "alpha3": "TUV"
+        },
+        {
+            "nom_pays_fr": "Ta\u00efwan",
+            "alpha3": "TWN"
+        },
+        {
+            "nom_pays_fr": "R\u00e9publique-Unie de Tanzanie",
+            "alpha3": "TZA"
+        },
+        {
+            "nom_pays_fr": "Ouganda",
+            "alpha3": "UGA"
+        },
+        {
+            "nom_pays_fr": "Ukraine",
+            "alpha3": "UKR"
+        },
+        {
+            "nom_pays_fr": "\u00celes Mineures \u00c9loign\u00e9es des \u00c9tats-Unis",
+            "alpha3": "UMI"
+        },
+        {
+            "nom_pays_fr": "Uruguay",
+            "alpha3": "URY"
+        },
+        {
+            "nom_pays_fr": "\u00c9tats-Unis",
+            "alpha3": "USA"
+        },
+        {
+            "nom_pays_fr": "Ouzb\u00e9kistan",
+            "alpha3": "UZB"
+        },
+        {
+            "nom_pays_fr": "Saint-Si\u00e8ge (\u00e9tat de la Cit\u00e9 du Vatican)",
+            "alpha3": "VAT"
+        },
+        {
+            "nom_pays_fr": "Saint-Vincent-et-les Grenadines",
+            "alpha3": "VCT"
+        },
+        {
+            "nom_pays_fr": "Venezuela",
+            "alpha3": "VEN"
+        },
+        {
+            "nom_pays_fr": "\u00celes Vierges Britanniques",
+            "alpha3": "VGB"
+        },
+        {
+            "nom_pays_fr": "\u00celes Vierges des \u00c9tats-Unis",
+            "alpha3": "VIR"
+        },
+        {
+            "nom_pays_fr": "Viet Nam",
+            "alpha3": "VNM"
+        },
+        {
+            "nom_pays_fr": "Vanuatu",
+            "alpha3": "VUT"
+        },
+        {
+            "nom_pays_fr": "Wallis et Futuna",
+            "alpha3": "WLF"
+        },
+        {
+            "nom_pays_fr": "Samoa",
+            "alpha3": "WSM"
+        },
+        {
+            "nom_pays_fr": "Y\u00e9men",
+            "alpha3": "YEM"
+        },
+        {
+            "nom_pays_fr": "Afrique du Sud",
+            "alpha3": "ZAF"
+        },
+        {
+            "nom_pays_fr": "Zambie",
+            "alpha3": "ZMB"
+        },
+        {
+            "nom_pays_fr": "Zimbabwe",
+            "alpha3": "ZWE"
+        }
+    ]
+}
